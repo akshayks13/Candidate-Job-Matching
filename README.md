@@ -111,4 +111,6 @@ The program will display a menu to list candidates, jobs, generate match reports
 3. **Matrix Padding:** Balances the cost matrix for unequal numbers of candidates and jobs.
 4. **Assignment:** Uses the Hungarian Algorithm to find the optimal assignment.
 5. **Match Analysis:** Provides detailed analysis on why a candidate is suitable (or not) for a job.
- 
+
+## Conclusion
+The Job Matching System uses a combination of optimal assignment via the Hungarian Algorithm and advanced string matching techniques to accurately and efficiently pair candidates with job openings. This integrated approach minimizes mismatch costs and improves the overall job matching process.
