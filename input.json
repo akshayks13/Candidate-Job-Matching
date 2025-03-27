@@ -1,0 +1,200 @@
+{
+    "candidates": [
+      {
+        "id": 1,
+        "name": "Alice",
+        "resume": "Experienced software engineer with expertise in C++ and Java.",
+        "skills": ["C++", "Java", "SQL"],
+        "cgpa": 3.8,
+        "experience": 5,
+        "certificates": [
+          {
+            "title": "Certified C++ Developer",
+            "issuer": "Microsoft"
+          },
+          {
+            "title": "Java Professional Certification",
+            "issuer": "Oracle"
+          }
+        ],
+        "expectedSalary": 80000,
+        "preferredLocation": "NYC",
+        "softSkills": ["communication", "teamwork", "problem-solving"]
+      },
+      {
+        "id": 2,
+        "name": "Bob",
+        "resume": "Enthusiastic developer with a strong background in Python and Machine Learning.",
+        "skills": ["Python", "Machine Learning", "C++"],
+        "cgpa": 3.6,
+        "experience": 3,
+        "certificates": [
+          {
+            "title": "Python Developer Certification",
+            "issuer": "Coursera"
+          },
+          {
+            "title": "Introduction to Machine Learning",
+            "issuer": "edX"
+          }
+        ],
+        "expectedSalary": 70000,
+        "preferredLocation": "Remote",
+        "softSkills": ["adaptability", "communication"]
+      },
+      {
+        "id": 3,
+        "name": "Charlie",
+        "resume": "Front-end developer skilled in JavaScript, HTML, and CSS.",
+        "skills": ["JavaScript", "HTML", "CSS"],
+        "cgpa": 3.7,
+        "experience": 4,
+        "certificates": [
+          {
+            "title": "Web Development Certification",
+            "issuer": "Udacity"
+          }
+        ],
+        "expectedSalary": 75000,
+        "preferredLocation": "NYC",
+        "softSkills": ["creativity", "teamwork"]
+      },
+      {
+        "id": 4,
+        "name": "Diana",
+        "resume": "Data scientist with experience in Python, SQL, and R.",
+        "skills": ["Python", "SQL", "R"],
+        "cgpa": 3.9,
+        "experience": 6,
+        "certificates": [
+          {
+            "title": "Data Science Professional Certificate",
+            "issuer": "IBM"
+          },
+          {
+            "title": "Advanced R Programming",
+            "issuer": "DataCamp"
+          }
+        ],
+        "expectedSalary": 85000,
+        "preferredLocation": "Remote",
+        "softSkills": ["problem-solving", "communication", "adaptability"]
+      },
+      {
+        "id": 5,
+        "name": "Akshay",
+        "resume": "Experienced software engineer with expertise in C++ and Java.",
+        "skills": ["C++"],
+        "cgpa": 3.8,
+        "experience": 7,
+        "certificates": [
+          {
+            "title": "Certified C++ Developer",
+            "issuer": "Microsoft"
+          }
+        ],
+        "expectedSalary": 80000,
+        "preferredLocation": "NYC",
+        "softSkills": ["leadership", "teamwork"]
+      },
+      {
+        "id": 6,
+        "name": "Tarun",
+        "resume": "",
+        "skills": [],
+        "cgpa": 1.8,
+        "experience": 0,
+        "certificates": [],
+        "expectedSalary": 80000,
+        "preferredLocation": "NYC",
+        "softSkills": []
+      }
+    ],
+    "jobs": [
+      {
+        "id": 101,
+        "title": "Software Engineer",
+        "description": "Looking for an experienced engineer skilled in C++ and SQL.",
+        "requiredSkills": ["C++", "SQL"],
+        "min_cgpa": 3.5,
+        "min_experience": 4,
+        "requiredCertifications": ["Certified C++ Developer"],
+        "offeredSalary": 80000,
+        "location": "NYC",
+        "requiredSoftSkills": ["communication", "teamwork"]
+      },
+      {
+        "id": 102,
+        "title": "Data Analyst",
+        "description": "Seeking a data analyst with strong skills in Python and SQL.",
+        "requiredSkills": ["Python", "SQL"],
+        "min_cgpa": 3.4,
+        "min_experience": 3,
+        "requiredCertifications": [],
+        "offeredSalary": 70000,
+        "location": "Remote",
+        "requiredSoftSkills": ["problem-solving", "adaptability"]
+      },
+      {
+        "id": 103,
+        "title": "Web Developer",
+        "description": "Hiring a front-end developer with expertise in JavaScript and HTML.",
+        "requiredSkills": ["JavaScript", "HTML"],
+        "min_cgpa": 3.5,
+        "min_experience": 2,
+        "requiredCertifications": ["Web Development Certification"],
+        "offeredSalary": 60000,
+        "location": "NYC",
+        "requiredSoftSkills": ["creativity", "communication"]
+      },
+      {
+        "id": 104,
+        "title": "Machine Learning Engineer",
+        "description": "Seeking a machine learning engineer proficient in Python and Machine Learning.",
+        "requiredSkills": ["Python", "Machine Learning"],
+        "min_cgpa": 3.6,
+        "min_experience": 5,
+        "requiredCertifications": ["Python Developer Certification"],
+        "offeredSalary": 90000,
+        "location": "Remote",
+        "requiredSoftSkills": ["problem-solving", "adaptability", "communication"]
+      },
+      {
+        "id": 105,
+        "title": "Data Analyst",
+        "description": "Seeking a data analyst with strong skills in Python and SQL.",
+        "requiredSkills": ["Python", "SQL"],
+        "min_cgpa": 3.4,
+        "min_experience": 3,
+        "requiredCertifications": [],
+        "offeredSalary": 70000,
+        "location": "Remote",
+        "requiredSoftSkills": ["adaptability", "communication"]
+      },
+      {
+        "id": 106,
+        "title": "Data Analyst",
+        "description": "Seeking a data analyst with strong skills in Python and SQL.",
+        "requiredSkills": ["Python", "SQL"],
+        "min_cgpa": 3.4,
+        "min_experience": 3,
+        "requiredCertifications": [],
+        "offeredSalary": 70000,
+        "location": "Remote",
+        "requiredSoftSkills": ["problem-solving", "time management"]
+      },
+      {
+        "id": 107,
+        "title": "Data Analyst",
+        "description": "Seeking a data analyst with strong skills in Python and SQL.",
+        "requiredSkills": ["Python", "SQL"],
+        "min_cgpa": 3.4,
+        "min_experience": 3,
+        "requiredCertifications": [],
+        "offeredSalary": 70000,
+        "location": "Remote",
+        "requiredSoftSkills": ["communication", "teamwork"]
+      }
+    ]
+  }
+  
